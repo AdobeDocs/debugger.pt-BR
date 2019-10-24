@@ -17,7 +17,7 @@ Na tela Ferramentas, você pode ativar ou desativar várias ferramentas para a s
 
 ![](assets/tools.jpg)
 
-Você pode inserir dinamicamente Launch ou DTM em qualquer página para testar algo em uma página que não tenha Launch ou DTM instalado. Clique no ícone **[!UICONTROL Incorporar código]** , digite o código [](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) incorporado e clique em **[!UICONTROL Salvar]**.
+Você pode inserir dinamicamente Launch ou DTM em qualquer página para testar algo em uma página que não tenha Launch ou DTM instalado. Clique no **[!UICONTROL Embed Code]** ícone, digite o código [](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) incorporado e clique em **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
