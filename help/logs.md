@@ -22,4 +22,4 @@ A tela Logs fornece informações específicas para implementações do DTM. A f
 
 ![](assets/logs.jpg)
 
-Alguns itens de registro do DTM incluem uma opção Mostrar código em sua mensagem. Clique em **[!UICONTROL Mostrar código]** para exibir o código condicional que determina se uma regra deve ser acionada.
+Alguns itens de registro do DTM incluem uma opção Mostrar código em sua mensagem. Clique para exibir **[!UICONTROL Show Code]** o código condicional que determina se uma regra deve ser acionada.
