@@ -23,7 +23,7 @@ A tela Resumo do depurador da Adobe Experience Cloud é exibida.
 
 Essa tela mostra uma miniatura da página, bem como o URL e o título da página. Ele também mostra informações sobre cada solução da Adobe Experience Cloud. As informações mostradas variam de acordo com a solução, mas geralmente incluem informações como biblioteca e versão da solução (por exemplo, "AppMeasurement v2.9") e identificadores de conta (como a ID do conjunto de relatórios do Analytics, o código do cliente Target, a ID do parceiro do Audience Manager etc)
 
-Os números em azul ao lado das guias na parte superior da janela mostram o número de chamadas do servidor que foram feitas. Você pode redefini-los como zero clicando em **[!UICONTROL Limpar todas as solicitações]** na respectiva guia.
+Os números em azul ao lado das guias na parte superior da janela mostram o número de chamadas do servidor que foram feitas. Você pode redefini-los como zero clicando **[!UICONTROL Clear All Requests]** na guia respectiva.
 
 Por exemplo, a imagem a seguir mostra informações sobre o Adobe Target. Observe que para expor os detalhes da atividade descritos abaixo sem autenticação, você deve implementar o ouvinte de eventos Depuração no código ou no gerenciador de tags e ativar os tokens [de](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) resposta necessários na interface do usuário do Target.
 
@@ -31,7 +31,7 @@ Por exemplo, a imagem a seguir mostra informações sobre o Adobe Target. Observ
 
 ## Executar uma auditoria no Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Você pode usar o Adobe Auditor para executar uma série de auditorias em sua página. Para executar o Auditor, clique em **[!UICONTROL Auditor]** no menu superior e, em seguida, clique em Página **[!UICONTROL de auditoria agora]**. Para abrir o Adobe Auditor, clique em **[!UICONTROL Executar auditoria de várias páginas agora]**.
+Você pode usar o Adobe Auditor para executar uma série de auditorias em sua página. Para executar o Auditor, clique **[!UICONTROL Auditor]** no menu superior e, em seguida, clique em **[!UICONTROL Audit Page Now]**. Para abrir o Adobe Auditor, clique em **[!UICONTROL Run Multi-Page Audit Now]**.
 
 ## Informações mostradas no Depurador {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -56,7 +56,7 @@ O Depurador mostra as seguintes informações para cada solução:
  </tbody> 
 </table>
 
-**Adobe Analytics** 
+**Adobe Analytics**
 
 <table id="table_BEB9CC58E59D4D86BC895A8A51D84A2C"> 
  <tbody> 
