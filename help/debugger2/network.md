@@ -6,7 +6,7 @@ seo-title: Informações de rede
 title: Informações de rede
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ A tela Rede agrega todas as chamadas da solução da Adobe Experience Cloud feit
 
 ![](assets/network.jpg)
 
-Essa tela é útil para confirmar que os parâmetros usados para integrações, como a ID de visitante da Experience Cloud ou a ID de dados complementares, são consistentes em todas as integrações.
+Essa tela é útil para comparar pares de valores chave entre ocorrências. Você pode confirmar se os parâmetros usados para integrações, como a ID de visitante da Experience Cloud ou a ID de dados complementares, são consistentes em todas as integrações.
 
 >[!NOTE]
 >
