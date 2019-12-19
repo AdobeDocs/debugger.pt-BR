@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
@@ -48,11 +48,11 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Testes do auditor </p> </td> 
-   <td colname="col2"> <p> Adição dos <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Testes do auditor</a> no Depurador </p> </td> 
+   <td colname="col2"> <p> Adição dos <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Testes do auditor</a> no Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Agora o depurador exibe as respostas do AAM </p> </td> 
+   <td colname="col2"> <p>Agora o Debugger exibe as respostas do AAM </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -61,7 +61,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 * Correção de um problema em que o rodapé ocultava o conteúdo na parte inferior da página
 
-* Atualização do rodapé do Depurador
+* Atualização do rodapé do Debugger
 * Correção de um problema em que a terminologia desatualizada era usada para o Target
 
 ## Versão 0.0.809 de 28 de fevereiro de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -93,7 +93,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 * Correção de um problema em Inserir dinamicamente o Launch, no qual a interface do usuário parecia mapear para um código de incorporação diferente quando não estava
 * Correção de um problema em Inserir dinamicamente o Launch, no qual um URL inválido continuava a ser exibido
-* Correção de um problema em que o Depurador continuava a substituir códigos de incorporação mesmo quando a janela do Depurador estava fechada
+* Correção de um problema em que o Debugger continuava a substituir códigos de incorporação mesmo quando a janela do Debugger estava fechada
 
 ## Versão 0.0.806 de 10 de setembro de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -136,7 +136,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 * Correção de um problema em que a guia Experience Cloud não era atualizada
 
 * Correção de um problema em que "Media Optimizer" era exibido na linha Solução da guia Rede, em vez do nome atual "Advertising Cloud"
-* Correção de um problema que fazia com que o Depurador injetasse _satellite em cada página
+* Correção de um problema que fazia com que o Debugger injetasse _satellite em cada página
 
 ## Versão 0.0.803 de 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -156,7 +156,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Link do auditor na guia Ferramentas </p> </td> 
-   <td colname="col2"> <p>Adição de um link para o Auditor no Depurador </p> </td> 
+   <td colname="col2"> <p>Adição de um link para o Auditor no Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Guias recolhidas </p> </td> 
@@ -219,7 +219,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Atualizar link de ajuda no rodapé </p> </td> 
-   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external">https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
