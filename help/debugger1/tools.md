@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Ferramentas
 title: Ferramentas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -17,7 +17,7 @@ Na tela Ferramentas, você pode ativar ou desativar várias ferramentas para a s
 
 ![](assets/tools.jpg)
 
-Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Clique no ícone **[!UICONTROL Embed Code]**, em seguida digite o [código incorporado](https://experiencecloud.adobe.com/resources/help/pt_BR/dtm/deployment.html) e clique em **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -62,7 +62,7 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Registro do console do Target </p> </td> 
-   <td colname="col2"> <p>Esta ferramenta expõe as instruções de depuração específicas do Target para o console do navegador, tudo começando com o prefixo <span class="codeph"> AT:</span>, adicionando um cookie chamado <span class="codeph">mboxDebug=true</span> no navegador. No momento, as instruções do console não aparecem na tela Registros do depurador, mas são visíveis no console de depuração nativo do navegador. </p> <p> Esta ferramenta requer o at.js 0.9.6+. Se você estiver usando uma versão anterior do at.js, poderá adicionar o parâmetro da sequência de consulta <span class="codeph">?mboxDebug=true</span> ao URL para ativar o registro do console. Se você estiver usando o mbox.js, poderá adicionar o parâmetro <span class="codeph">?_AT_Debug=console</span> para ativar o registro do console limitado às atividades do Visual Experience Composer. </p> </td> 
+   <td colname="col2"> <p>Esta ferramenta expõe as instruções de depuração específicas do Target para o console do navegador, tudo começando com o prefixo <span class="codeph"> AT:</span>, adicionando um cookie chamado <span class="codeph">mboxDebug=true</span> no navegador. No momento, as instruções do console não aparecem na tela Registros do Debugger, mas são visíveis no console de depuração nativo do navegador. </p> <p> Esta ferramenta requer o at.js 0.9.6+. Se você estiver usando uma versão anterior do at.js, poderá adicionar o parâmetro da sequência de consulta <span class="codeph">?mboxDebug=true</span> ao URL para ativar o registro do console. Se você estiver usando o mbox.js, poderá adicionar o parâmetro <span class="codeph">?_AT_Debug=console</span> para ativar o registro do console limitado às atividades do Visual Experience Composer. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Ativar Mbox Traces </p> </td> 
@@ -79,6 +79,6 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
  </tbody> 
 </table>
 
-O vídeo a seguir explica como usar a extensão do Depurador com o Adobe Target.
+O vídeo a seguir explica como usar a extensão do Debugger com o Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
