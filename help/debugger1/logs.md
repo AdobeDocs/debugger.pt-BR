@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ A tela Logs fornece informações específicas para implementações do DTM. A f
 
 ![](assets/logs.jpg)
 
-Alguns itens de log do DTM incluem uma opção Mostrar código na mensagem. Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+Alguns itens de log do DTM incluem uma opção Mostrar código na mensagem. Clique em **[!UICONTROL Show Code]** para exibir o código condicional que determina se uma regra deve ser acionada.
