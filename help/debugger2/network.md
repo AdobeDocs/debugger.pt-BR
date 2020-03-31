@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: Informações de rede
 title: Informações de rede
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Informações de rede {#network-information}
+# Rede{#network}
+
+> [!IMPORTANT]
+>
+> O Adobe Experience Cloud Debugger 2.0 está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Para exibir Informações de, clique em **[!UICONTROL Network]**.
 
@@ -25,7 +29,7 @@ Essa tela é útil para comparar pares de valores importantes entre ocorrências
 >
 >No momento, nem todos os parâmetros transmitidos nas chamadas da solução (por exemplo, variáveis de contexto do Analytics, parâmetros personalizados do Target ou IDs do cliente do serviço da Experience Cloud ID) estão visíveis na tela Rede.
 
-Para filtrar as informações por solução, selecione a solução que deseja exibir na lista da navegação à esquerda. O exemplo a seguir for filtrado para mostrar somente o Analytics:
+Para alterar as informações por solução, selecione a solução que deseja visualização da lista no navegador esquerdo. O exemplo a seguir for filtrado para mostrar somente o Analytics:
 
 ![](assets/network-analytics.jpg)
 
