@@ -4,17 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: Eventos
 title: Eventos
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Eventos {#events}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 A tela Eventos fornece uma exibição gráfica dos eventos que ocorrem, exibidos em uma linha do tempo.
 
