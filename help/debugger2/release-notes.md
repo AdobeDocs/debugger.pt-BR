@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -17,4 +17,4 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 > [!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
+> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
