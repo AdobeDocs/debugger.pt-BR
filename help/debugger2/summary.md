@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Tela Resumo {#summary-screen}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Para executar o Adobe Experience Platform Debugger, clique no ícone na barra do navegador e abra a página que deseja examinar no navegador.
 
