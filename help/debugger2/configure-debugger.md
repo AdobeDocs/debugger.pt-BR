@@ -4,17 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: 'null'
 seo-title: Configurar o Experience Cloud Debugger
 title: Configurar o Experience Cloud Debugger
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Configurar o Debugger
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Você pode configurar certos aspectos de como o Debugger é exibido e funciona.
 
