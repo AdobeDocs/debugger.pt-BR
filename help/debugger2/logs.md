@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: Logs
 title: Logs
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Logs {#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 A tela Logs fornece informações específicas para implementações de DTM, Launch e AEP Web SDK. A ferramenta Depuração de console do DTM não precisa ser ativada para exibir essas informações. É possível filtrar pelas soluções implementadas por meio das ferramentas associadas.
 
