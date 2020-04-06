@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Ferramentas
 title: Ferramentas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -15,13 +15,13 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 > [!IMPORTANT]
 >
-> O Adobe Experience Cloud Debugger 2.0 está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
+> O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Na tela Ferramentas, você pode ativar ou desativar várias ferramentas para a solução instalada. Por exemplo, você pode ativar as instruções de depuração do console do Target ou usar a Biblioteca de preparo do DTM. Essas ferramentas só estarão disponíveis se o Target e o DTM estiverem instalados na página.
 
 ![](assets/tools.jpg)
 
-Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Clique no ícone **[!UICONTROL Embed Code]**, em seguida digite o [código incorporado](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) e clique em **[!UICONTROL Save]**.
+Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Clique no ícone **[!UICONTROL Embed Code]**, em seguida digite o [código incorporado](https://experiencecloud.adobe.com/resources/help/pt_BR/dtm/deployment.html) e clique em **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -85,4 +85,4 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
 
 O vídeo a seguir explica como usar a extensão do Debugger com o Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
