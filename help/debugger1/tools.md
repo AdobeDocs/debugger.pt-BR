@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Ferramentas
 title: Ferramentas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ Na tela Ferramentas, você pode ativar ou desativar várias ferramentas para a s
 
 ![](assets/tools.jpg)
 
-Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Clique no ícone **[!UICONTROL Embed Code]**, em seguida digite o [código incorporado](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html) e clique em **[!UICONTROL Save]**.
+Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar algo em uma página que não tenha o Launch ou o DTM instalado. Clique no ícone **[!UICONTROL Embed Code]**, em seguida digite o [código incorporado](https://docs.adobe.com/content/help/pt-BR/dtm/using/client-side/deployment.html) e clique em **[!UICONTROL Save]**.
 
 ![](assets/tools-embedcode.jpg)
 
@@ -81,4 +81,4 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
 
 O vídeo a seguir explica como usar a extensão do Debugger com o Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
