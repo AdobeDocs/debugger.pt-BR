@@ -5,7 +5,7 @@ seo-description: Uso das guias Solução no Adobe Debugger
 seo-title: Guias Solução no Adobe Debugger
 title: Guias Solução
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ Clique nas guias Solução para ver os resultados para soluções específicas d
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-A guia Analytics fornece informações sobre a implementação do [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+A guia Analytics fornece informações sobre a implementação do [Analytics](https://docs.adobe.com/content/help/pt-BR/analytics/landing/home.html).
 
 **Hits**
 
@@ -33,7 +33,7 @@ Clique na ID do conjunto de relatórios para expandir a exibição:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Esta tela exibe todas as solicitações desde que o Debugger foi aberto ou que as solicitações foram apagadas. Os parâmetros padrão são mapeados automaticamente para nomes familiares. As variáveis [prop e eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) podem ser mapeadas até os nomes familiares personalizados (por exemplo, &quot;prop1&quot; pode ser exibido como &quot;Tipo de usuário&quot;), se você autenticar usando o recurso &quot;Análise de link&quot; (veja abaixo). As solicitações são exibidas em sequência, da esquerda para a direita.
+Esta tela exibe todas as solicitações desde que o Debugger foi aberto ou que as solicitações foram apagadas. Os parâmetros padrão são mapeados automaticamente para nomes familiares. As variáveis [prop e eVar](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/evar.html) podem ser mapeadas até os nomes familiares personalizados (por exemplo, &quot;prop1&quot; pode ser exibido como &quot;Tipo de usuário&quot;), se você autenticar usando o recurso &quot;Análise de link&quot; (veja abaixo). As solicitações são exibidas em sequência, da esquerda para a direita.
 
 **Download:** salve todas as solicitações feitas no conjunto de relatórios como planilha do Excel.
 
@@ -59,7 +59,7 @@ Para a maioria das implementações do Analytics, as informações de regras pó
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-Use a guia Target para exibir as solicitações do [Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) ou os detalhes de resposta do [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Use a guia Target para exibir as solicitações do [Target](https://docs.adobe.com/content/help/pt-BR/target/using/target-home.html) ou os detalhes de resposta do [Mbox Trace](https://docs.adobe.com/content/help/pt-BR/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 Clique em **[!UICONTROL Requests]** e expanda o ambiente para exibir as informações sobre o Target.
 
@@ -67,33 +67,33 @@ Clique em **[!UICONTROL Requests]** e expanda o ambiente para exibir as informa�
 
 Clique em **[!UICONTROL Clear All Requests]** para remover as solicitações exibidas no momento. Mais solicitações serão exibidas à medida que forem feitas.
 
-Você também pode usar o filtro Target para [ativar o MBox Trace for Target para fins de depuração](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Você também pode usar o filtro Target para [ativar o MBox Trace for Target para fins de depuração](https://docs.adobe.com/content/help/pt-BR/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 É necessário abrir uma guia Chrome autenticada na Experience Cloud para ativar o Mbox Trace. Depois de ativado, ele mostra o nome de usuário da Adobe ID. Expanda o nome de usuário para expor os códigos de cliente do Target associados às organizações da Experience Cloud às quais você tem acesso. Clique no código de cliente para o qual você deseja ativar o Mbox Trace e confirme se a marca de seleção verde é exibida. Todas as solicitações do Target com informações do Mbox Trace serão exibidas, agrupadas por código de cliente. Para explorar as informações do Mbox Trace, expanda a solicitação para ver as guias:
 
-* [Atividades](https://docs.adobe.com/content/help/en/target/using/activities/activities.html) A guia Atividades mostra todas as atividades associadas ao nome da solicitação do Target, independentemente de você se qualificar para a atividade. &quot;Atividades correspondentes&quot; são as atividades para as quais você se qualificou e cujas ofertas foram fornecidas na resposta. Você pode expandir o nome da atividade para confirmar a experiência em que está e quais públicos-alvo e condições de direcionamento o qualificaram para a atividade. &quot;Atividades avaliadas&quot; são todas as atividades avaliadas, independentemente de você se qualificar. Para solucionar os problemas do motivo pelo qual você não está qualificado para uma atividade &quot;Avaliada&quot;, mas não &quot;Correspondente&quot;, expanda o nome da atividade e confira a seção &quot;Públicos sem correspondência&quot;.
+* [Atividades](https://docs.adobe.com/content/help/pt-BR/target/using/activities/activities.html) A guia Atividades mostra todas as atividades associadas ao nome da solicitação do Target, independentemente de você se qualificar para a atividade. &quot;Atividades correspondentes&quot; são as atividades para as quais você se qualificou e cujas ofertas foram fornecidas na resposta. Você pode expandir o nome da atividade para confirmar a experiência em que está e quais públicos-alvo e condições de direcionamento o qualificaram para a atividade. &quot;Atividades avaliadas&quot; são todas as atividades avaliadas, independentemente de você se qualificar. Para solucionar os problemas do motivo pelo qual você não está qualificado para uma atividade &quot;Avaliada&quot;, mas não &quot;Correspondente&quot;, expanda o nome da atividade e confira a seção &quot;Públicos sem correspondência&quot;.
 
 * Solicitação
 
-   A guia de solicitação do [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) é semelhante à guia de solicitação principal. Você pode exibir todos os parâmetros transmitidos pela solicitação do Target, além dos cabeçalhos da solicitação.
+   A guia de solicitação do [Mbox Trace](https://docs.adobe.com/content/help/pt-BR/target/using/activities/troubleshoot-activities/content-trouble.html) é semelhante à guia de solicitação principal. Você pode exibir todos os parâmetros transmitidos pela solicitação do Target, além dos cabeçalhos da solicitação.
 * Perfil
 
-   Expanda a seção Instantâneo do perfil para ver as [informações do perfil](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) armazenadas sobre você como um visitante no banco de dados do perfil do Target. Todos os perfis de in-mbox e script são expostos aqui, bem como alguns perfis do sistema. A coluna Status mostra quais perfis foram alterados dentro do escopo desta solicitação, bem como seus valores antes e depois que a solicitação entrou no sistema de perfil.
+   Expanda a seção Instantâneo do perfil para ver as [informações do perfil](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) armazenadas sobre você como um visitante no banco de dados do perfil do Target. Todos os perfis de in-mbox e script são expostos aqui, bem como alguns perfis do sistema. A coluna Status mostra quais perfis foram alterados dentro do escopo desta solicitação, bem como seus valores antes e depois que a solicitação entrou no sistema de perfil.
 * Audience Manager
 
-   As seções &quot;segmentIds&quot; e &quot;cachedSegmentIds&quot; da guia Audience Manager expõem as IDs de [públicos](https://docs.adobe.com/content/help/en/target/using/audiences/target.html) compartilhados da Experience Cloud para o Target e para as quais você se qualificou. Podem ser públicos-alvo criados no Audience Manager, no Analytics ou no Audience Builder no People Core Service. Essas IDs podem ser pesquisadas na interface do usuário do Audience Manager para localizar o nome do público-alvo.
+   As seções &quot;segmentIds&quot; e &quot;cachedSegmentIds&quot; da guia Audience Manager expõem as IDs de [públicos](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/target.html) compartilhados da Experience Cloud para o Target e para as quais você se qualificou. Podem ser públicos-alvo criados no Audience Manager, no Analytics ou no Audience Builder no People Core Service. Essas IDs podem ser pesquisadas na interface do usuário do Audience Manager para localizar o nome do público-alvo.
 
 O vídeo a seguir mostra a funcionalidade geral do Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
 
 O vídeo a seguir mostra o Mbox Trace:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=por_br)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-Use a guia [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) para exibir detalhes de [eventos](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Clique na organização para expandi-la e mostrar as informações.
+Use a guia [Audience Manager](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/aam-home.html) para exibir detalhes de [eventos](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html). Clique na organização para expandi-la e mostrar as informações.
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ A sincronização de ID é a primeira etapa do processo de transferência de dad
 
 ![](assets/aam-idsync.jpg)
 
-Consulte [Sincronização de ID para transferências de dados de entrada](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) na Documentação do produto do Audience Manager, para obter mais informações.
+Consulte [Sincronização de ID para transferências de dados de entrada](https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html) na Documentação do produto do Audience Manager, para obter mais informações.
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ Clique em **[!UICONTROL Clear All Requests]** para remover as solicitações exi
 
 ## Serviço da Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-Use a guia Serviço da Experience Cloud ID para exibir as solicitações do [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/en/id-service/using/home.html).
+Use a guia Serviço da Experience Cloud ID para exibir as solicitações do [Serviço da Experience Cloud ID](https://docs.adobe.com/content/help/pt-BR/id-service/using/home.html).
 
 Clique em **[!UICONTROL Requests]** e, em seguida, expanda o ambiente para exibir as informações sobre o Serviço da Experience Cloud ID.
 
