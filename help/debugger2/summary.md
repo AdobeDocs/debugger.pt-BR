@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -49,7 +49,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da página </p> </td> 
-   <td colname="col2"> <p>A variável <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/sc/implement/pageName.html" format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
+   <td colname="col2"> <p>A variável <a href="https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Módulos </p> </td> 
