@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Informações de rede
 title: Informações de rede
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -33,7 +33,7 @@ Para alterar as informações por solução, selecione a solução que deseja ex
 
 ![](assets/network-analytics.jpg)
 
-Para voltar a exibir todas as soluções, clique em **[!UICONTROL Network]**
+Para voltar a exibir todas as soluções, clique em **[!UICONTROL Network]**.
 
 Clique em um item na exibição Rede para obter uma exibição ampliada. Na janela de exibição expandida, é possível copiar as informações mostradas para a Área de transferência.
 
