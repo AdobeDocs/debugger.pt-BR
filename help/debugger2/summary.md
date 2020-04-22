@@ -49,7 +49,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da página </p> </td> 
-   <td colname="col2"> <p>A variável <a href="https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
+   <td colname="col2"> <p>A variável <a href="https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Módulos </p> </td> 
