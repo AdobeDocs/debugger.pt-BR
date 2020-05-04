@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
@@ -135,7 +135,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 * Correção de um problema em que a guia Experience Cloud não era atualizada
 
-* Correção de um problema em que "Media Optimizer" era exibido na linha Solução da guia Rede, em vez do nome atual "Advertising Cloud"
+* Correção de um problema em que &quot;Media Optimizer&quot; era exibido na linha Solução da guia Rede, em vez do nome atual &quot;Advertising Cloud&quot;
 * Correção de um problema que fazia com que o Debugger injetasse _satellite em cada página
 
 ## Versão 0.0.803 de 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
@@ -176,7 +176,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
 
 ## Correções de erros {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
-* Correção de um problema em que a função "Clicar na célula para exibir" não era atualizada
+* Correção de um problema em que a função &quot;Clicar na célula para exibir&quot; não era atualizada
 * Correção de um problema em que os hits do AAM não eram exibidos na guia AAM
 
 ## Versão 0.0.798 de 14 de junho de 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
@@ -219,7 +219,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Atualizar link de ajuda no rodapé </p> </td> 
-   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
