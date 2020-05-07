@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
@@ -219,7 +219,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
   </tr> 
   <tr> 
    <td colname="col1"> <p>Atualizar link de ajuda no rodapé </p> </td> 
-   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
+   <td colname="col2"> <p>Atualizar link de ajuda no rodapé para <a href="https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/pt-BR/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox interruptores </p> </td> 
+   <td colname="col1"> <p>Mbox  interruptores </p> </td> 
    <td colname="col2"> <p>Os interruptores da mbox foram adicionadas à guia Target </p> </td> 
   </tr> 
   <tr> 
