@@ -5,8 +5,11 @@ seo-description: Documentação técnica da extensão do Chrome e do Firefox do 
 seo-title: Extensão do Chrome e do Firefox do Adobe Experience Platform Debugger
 title: Extensão do Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -36,3 +39,7 @@ Use o Debugger para coletar informações que ajudam a entender como as soluçõ
 
 * **Launch:** veja qual propriedade, ambiente e build estão implementados em uma página.
 * **Target**: veja para quais atividades você está qualificado ou não e por quê.
+
+## Tutorial em vídeo
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
