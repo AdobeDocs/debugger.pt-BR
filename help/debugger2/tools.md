@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: Ferramentas
 title: Ferramentas
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
   </tr> 
   <tr> 
    <td colname="col1"> <p> Ativar Mbox Traces </p> </td> 
-   <td colname="col2"> <p>Esta ferramenta adiciona as informações detalhadas nas respostas do Target, que podem ser exploradas na tela <span class="uicontrol">Target&gt;Mbox Trace</span> do depurador. </p> <p> Você deve estar conectado ao Experience Cloud em uma de suas guias do Chrome para ativar essa ferramenta. </p> </td> 
+   <td colname="col2"> <p>Esta ferramenta adiciona as informações detalhadas nas respostas do Target, que podem ser exploradas na tela <span class="uicontrol">Target&gt;Mbox Trace</span> do depurador. </p> <p> Você deve fazer logon na Experience Cloud em uma das guias do Chrome para ativar essa ferramenta. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Desativar o Target </p> </td> 
@@ -88,4 +88,4 @@ Você pode inserir dinamicamente o Launch ou DTM em qualquer página para testar
 
 O vídeo a seguir explica como usar a extensão do Debugger com o Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
