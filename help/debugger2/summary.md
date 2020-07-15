@@ -5,9 +5,9 @@ seo-description: 'null'
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '940'
 ht-degree: 100%
 
@@ -44,11 +44,11 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>A versão do <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> definida para a página. </p> </td> 
+   <td colname="col2"> <p>A versão do <a href="https://docs.adobe.com/content/help/pt-BR/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external"> AppMeasurement</a> definida para a página. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão do visitante </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da página </p> </td> 
@@ -148,7 +148,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ O Debugger mostra as seguintes informações para cada solução:
    <td colname="col2"> <p>A ID da experiência do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Oferta  Nome</p> </td> 
+   <td colname="col1"> <p>Oferta   Nome</p> </td> 
    <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external">oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
