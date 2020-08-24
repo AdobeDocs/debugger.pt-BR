@@ -1,15 +1,15 @@
 ---
-description: Correndo Experience Cloud Debugger
+description: Execução do Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Correndo Experience Cloud Debugger
+seo-description: Execução do Experience Cloud Debugger
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ A tela Resumo do Adobe Experience Cloud Debugger é exibida.
 
 ![](assets/summary.jpg)
 
-Essa tela mostra uma miniatura da página, bem como o URL e o título da página. Ela também mostra informações sobre cada solução da Adobe Experience Cloud. As informações mostradas variam de acordo com a solução, mas geralmente incluem informações como biblioteca e versão da solução (por exemplo, &quot;AppMeasurement v2.9&quot;) e identificadores de conta (como a ID do conjunto de relatórios do Analytics, o código de cliente do Target, a ID de parceiro do Audience Manager, etc)
+Essa tela mostra uma miniatura da página, bem como o URL e o título da página. Ela também mostra informações sobre cada solução da Adobe Experience Cloud. As informações mostradas variam de acordo com a solução, mas geralmente incluem informações como biblioteca e versão da solução (por exemplo, &quot;AppMeasurement v2.9&quot;) e identificadores de conta (como a ID do conjunto de relatórios do Analytics, o código de cliente do Target, a ID de parceiro do Audience Manager, etc).
 
 Os números em azul ao lado das guias na parte superior da janela mostram o número de chamadas de servidor efetuadas. Você pode redefinir esses números como zero ao clicar em **[!UICONTROL Clear All Requests]** na respectiva guia.
 
@@ -73,7 +73,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão do visitante </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/technotes/visitor-identification.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da página </p> </td> 
@@ -123,11 +123,11 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Launch </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Diretório de script </p> </td> 
-   <td colname="col2"> <p>O diretório onde o script do Launch está armazenado </p> </td> 
+   <td colname="col2"> <p>O diretório onde o script do Launch está armazenado. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +138,11 @@ O Debugger mostra as seguintes informações para cada solução:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome da biblioteca </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> do Adobe DTM </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> do Adobe DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>A versão da Turbina </p> </td> 
+   <td colname="col2"> <p>A versão da Turbina. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
@@ -150,11 +150,11 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>O ambiente usado pela biblioteca do DTM </p> </td> 
+   <td colname="col2"> <p>O ambiente usado pela biblioteca do DTM. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Diretório de script </p> </td> 
-   <td colname="col2"> <p>O diretório onde o script do DTM está armazenado </p> </td> 
+   <td colname="col2"> <p>O diretório onde o script do DTM está armazenado. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -169,7 +169,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/technotes/visitor-identification.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
