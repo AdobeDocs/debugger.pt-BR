@@ -5,11 +5,11 @@ seo-description: Notas de versão do Experience Cloud Debugger
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -51,21 +51,21 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Testes do auditor </p> </td> 
-   <td colname="col2"> <p> Adição dos <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Testes do auditor</a> no Debugger </p> </td> 
+   <td colname="col2"> <p> Adição dos <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Testes do auditor</a> no Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Agora o Debugger exibe as respostas do AAM </p> </td> 
+   <td colname="col2"> <p>Agora o Debugger exibe as respostas do AAM. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Correções de erros {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
-* Correção de um problema em que o rodapé ocultava o conteúdo na parte inferior da página
+* Correção de um problema em que o rodapé ocultava o conteúdo na parte inferior da página.
 
-* Atualização do rodapé do Debugger
-* Correção de um problema em que a terminologia desatualizada era usada para o Target
+* Atualização do rodapé do Debugger.
+* Correção de um problema em que a terminologia desatualizada era usada para o Target.
 
 ## Versão 0.0.809 de 28 de fevereiro de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
@@ -92,11 +92,11 @@ ht-degree: 98%
 
 ## Correções de erros {#section-556417ff055848c1bf037354dd43cbd0}
 
-* Correção de um problema em que os eventos AAM DIL não eram capturados na guia AAM
+* Correção de um problema em que os eventos AAM DIL não eram capturados na guia AAM.
 
-* Correção de um problema em Inserir dinamicamente o Launch, no qual a interface do usuário parecia mapear para um código de incorporação diferente quando não estava
-* Correção de um problema em Inserir dinamicamente o Launch, no qual um URL inválido continuava a ser exibido
-* Correção de um problema em que o Debugger continuava a substituir códigos de incorporação mesmo quando a janela do Debugger estava fechada
+* Correção de um problema em Inserir dinamicamente o Launch, no qual a interface do usuário parecia mapear para um código de incorporação diferente quando não estava.
+* Correção de um problema em Inserir dinamicamente o Launch, no qual um URL inválido continuava a ser exibido.
+* Correção de um problema em que o Debugger continuava a substituir códigos de incorporação mesmo quando a janela do Debugger estava fechada.
 
 ## Versão 0.0.806 de 10 de setembro de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -123,7 +123,7 @@ ht-degree: 98%
    <td colname="col2"> <p> 
      <ul id="ul_5FCD61733462495D8FB421DE7C813001"> 
       <li id="li_2E8E9AAE5D0D41DC8C42592AFDFA3377">Adição dos tempos de desempenho para solicitações do Target. </li> 
-      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Capturar adobe.target.trackEvent </li> 
+      <li id="li_98A56E71D72542D694A76DF84CE26AFA">Capturar adobe.target.trackEvent. </li> 
      </ul> </p> </td> 
   </tr> 
  </tbody> 
@@ -136,10 +136,10 @@ ht-degree: 98%
 
 ## Correções de erros {#section-d9231f5c77254d0888347e5f569a8b1d}
 
-* Correção de um problema em que a guia Experience Cloud não era atualizada
+* Correção de um problema em que a guia Experience Cloud não era atualizada.
 
-* Correção de um problema em que &quot;Media Optimizer&quot; era exibido na linha Solução da guia Rede, em vez do nome atual &quot;Advertising Cloud&quot;
-* Correção de um problema que fazia com que o Debugger injetasse _satellite em cada página
+* Correção de um problema em que &quot;Media Optimizer&quot; era exibido na linha Solução da guia Rede, em vez do nome atual &quot;Advertising Cloud&quot;.
+* Correção de um problema que fazia com que o Debugger injetasse _satellite em cada página.
 
 ## Versão 0.0.803 de 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -159,28 +159,28 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Link do auditor na guia Ferramentas </p> </td> 
-   <td colname="col2"> <p>Adição de um link para o Auditor no Debugger </p> </td> 
+   <td colname="col2"> <p>Adição de um link para o Auditor no Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Guias recolhidas </p> </td> 
-   <td colname="col2"> <p>As guias recolhidas persistem nas guias Resumo e Ferramenta </p> </td> 
+   <td colname="col2"> <p>As guias recolhidas persistem nas guias Resumo e Ferramenta. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Clique para exibir </p> </td> 
-   <td colname="col2"> <p> Adição da funcionalidade Clicar para exibir em todas as guias </p> </td> 
+   <td colname="col2"> <p> Adição da funcionalidade Clicar para exibir em todas as guias. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Melhorias {#section-0e7090e3e6a645f085d4553b983ecff8}
 
-* Alteração do nome de Media Optimizer para Advertising Cloud
-* Remoção das soluções da guia Rede, se não encontradas
+* Alteração do nome de Media Optimizer para Advertising Cloud.
+* Remoção das soluções da guia Rede, se não encontradas.
 
 ## Correções de erros {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
-* Correção de um problema em que a função &quot;Clicar na célula para exibir&quot; não era atualizada
-* Correção de um problema em que os hits do AAM não eram exibidos na guia AAM
+* Correção de um problema em que a função &quot;Clicar na célula para exibir&quot; não era atualizada.
+* Correção de um problema em que os hits do AAM não eram exibidos na guia AAM.
 
 ## Versão 0.0.798 de 14 de junho de 2018 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
@@ -214,10 +214,10 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
    <td colname="col1"> <p>Guia Limpar logs </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
-      <li id="li_2696D26320F54A089D3CC99962EC9670">Ocultar soluções no Filtro de soluções se nenhum item de linha para essa solução for encontrado nos logs </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Ocultar Filtro de nível se nenhuma chamada de DTM for encontrada, pois se aplica somente ao DTM </li> 
-      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Altere os ícones mostrados na coluna Nível para que eles não pareçam clicáveis quando nada acontecer ao clicar </li> 
-      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Padronizar a formatação de "Mostrar código" nos itens de linha do DTM </li> 
+      <li id="li_2696D26320F54A089D3CC99962EC9670">Ocultar soluções no Filtro de soluções se nenhum item de linha para essa solução for encontrado nos logs. </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">Ocultar Filtro de nível se nenhuma chamada de DTM for encontrada, pois se aplica somente ao DTM. </li> 
+      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">Altere os ícones mostrados na coluna Nível para que eles não pareçam clicáveis quando nada acontecer ao clicar. </li> 
+      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">Padronizar a formatação de "Mostrar código" nos itens de linha do DTM. </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -229,8 +229,8 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
 
 ## Correções de erros {#section-c292cf7dcb17463bb1928de73bd55121}
 
-* Correção de um problema em que o número do crachá não era apagado
-* Correção de um problema em que um cliente relatava detalhes de resumo em branco
+* Correção de um problema em que o número do crachá não era apagado.
+* Correção de um problema em que um cliente relatava detalhes de resumo em branco.
 
 ## Versão 0.0.797 de 25 de maio de 2018 {#topic-51490f4f42aa40eb879663fad9d62916}
 
@@ -245,8 +245,8 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox  interruptores </p> </td> 
-   <td colname="col2"> <p>Os interruptores da mbox foram adicionadas à guia Target </p> </td> 
+   <td colname="col1"> <p>Mbox   interruptores </p> </td> 
+   <td colname="col2"> <p>Os interruptores da mbox foram adicionadas à guia Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Agora as configurações de filtro são fixas </p> </td> 
