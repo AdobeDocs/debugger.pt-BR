@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: Como configurar o Experience Cloud Debugger
 seo-title: Configurar o Experience Cloud Debugger
 title: Configurar o Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '167'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,11 @@ Você pode configurar certos aspectos de como o Debugger é exibido e funciona.
 
 ## Modo claro ou escuro
 
-Depois que o Debugger for aberto, você poderá selecionar sua aparência preferida, ao acessar **** e selecionar **Modo escuro** (padrão) ou **Modo claro.**
+Depois que o Debugger for aberto, você poderá selecionar sua aparência preferida, ao acessar **[!UICONTROL Settings]** e selecionar **Modo escuro** (padrão) ou **Modo claro.**
 
 ## Redefinir
 
-Clique em **[!UI CONTROLE Redefinir todos os dados e configurações]** para retornar para limpar todos os dados e retornar às configurações padrão.
+Clique em **[!UICONTROL Reset all Data and Settings]** para retornar para limpar todos os dados e retornar às configurações padrão.
 
 ## Bloquear o Debugger em uma página
 
