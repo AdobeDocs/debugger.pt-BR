@@ -1,12 +1,15 @@
 ---
-description: Uso das guias Solução no Adobe Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Uso das guias Solução no Adobe Debugger
-seo-title: Guias Solução no Adobe Debugger
+description: Usando as guias Solução no Adobe Experience Platform Debugger
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Usando as guias Solução no Adobe Experience Platform Debugger '
+seo-title: 'Guias de solução no Adobe Experience Platform Debugger '
 title: Guias Solução
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Clique em uma solução para ver os resultados para soluções específicas da Adobe Experience Cloud.
 
@@ -39,7 +42,7 @@ Use a guia [Audience Manager](https://docs.adobe.com/content/help/pt-BR/audience
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Use a seção Launch para exibir solicitações do Launch. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [códigos incorporados](https://docs.adobe.com/content/help/pt-BR/launch/using/reference/upgrade/link-dtm-embed-code.html). Você pode editar, substituir ou adicionar mais códigos incorporados no Debugger. Se você fizer logon, será possível selecionar uma propriedade alternativa usando os menus suspensos.
+Use a seção Launch para exibir solicitações do Launch. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [códigos incorporados](https://docs.adobe.com/content/help/pt-BR/launch/using/reference/upgrade/link-dtm-embed-code.html). Você pode editar, substituir ou adicionar mais códigos incorporados no Depurador de Experience Platform. Se você fizer logon, será possível selecionar uma propriedade alternativa usando os menus suspensos.
 
 ## Dynamic Tag Management (DTM) {#dynamic-tag-management}
 
