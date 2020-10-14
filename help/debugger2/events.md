@@ -1,14 +1,14 @@
 ---
-description: Tela de eventos do Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Tela de eventos do Experience Cloud Debugger
+description: Tela Eventos do Depurador Experience Platform
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Tela Eventos do Depurador Experience Platform
 seo-title: Eventos
 title: Eventos
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 A tela Eventos fornece uma exibição gráfica dos eventos que ocorrem, exibidos em uma linha do tempo.
 
 ![](assets/events.jpg)
 
-Para cada evento, um ícone da solução aplicável da Experience Cloud é exibido na linha do tempo. Os ícones também mostram as alterações na camada de dados (se ativada). Passe o mouse sobre um ícone para ver um resumo do evento. Clique no evento para obter mais detalhes. É possível clicar com a tecla Shift pressionada ou com a tecla Control pressionada para exibir vários eventos.
+Para cada evento, um ícone da solução aplicável da é exibido na linha do tempo. Os ícones também mostram as alterações na camada de dados (se ativada). Passe o mouse sobre um ícone para ver um resumo do evento. Clique no evento para obter mais detalhes. É possível clicar com a tecla Shift pressionada ou com a tecla Control pressionada para exibir vários eventos.
 
 ![](assets/events-details.jpg)
 
