@@ -1,23 +1,26 @@
 ---
-cloud: experience-cloud
-solution-title: Aprendizagem e Suporte
+cloud: experience-platform
+solution-title: Aprendizagem e suporte
 solution-hub-url: https://helpx.adobe.com/br/support/experience-cloud/core-services.html
-solution-image: help/assets/experience-cloud-logo-24.png
+solution-image: help/assets/experience-p-logo-24.png
 getting-started-title: Introdução
 getting-started-url: https://helpx.adobe.com/br/experience-cloud-core-services/get-started.html
 tutorials-title: Tutoriais
 tutorials-url: https://helpx.adobe.com/br/analytics/how-to/adobe-launch-publishing-process.html
-git-repo: https://github.com/AdobeDocs/debugger.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.pt-BR
 index: true
-translation-type: ht
-source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata. md para qualquer guia do usuário, faça isso em qualquer arquivo TOC. md.
+O arquivo metadata.md inclui metadados de nível de repositório transmitidos para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadata | o que faz |
 |--- |--- |
