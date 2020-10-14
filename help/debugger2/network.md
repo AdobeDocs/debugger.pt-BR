@@ -1,15 +1,15 @@
 ---
-description: Tela de rede do Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Tela de rede do Experience Cloud Debugger
+description: Tela Rede do Depurador de Experience Platform
+keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+seo-description: Tela Rede do Depurador de Experience Platform
 seo-title: Informações de rede
 title: Informações de rede
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '228'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 92%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->O Adobe Experience Cloud Debugger 2.0 atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Para exibir Informações de, clique em **[!UICONTROL Network]**.
 
