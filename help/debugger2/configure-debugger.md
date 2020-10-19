@@ -4,11 +4,11 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Como configurar o Experience Platform Debugger
 seo-title: Configurar o Experience Platform Debugger
 title: Configurar o Experience Platform Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 35%
 
 >[!IMPORTANT]
 >
->O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
-Você pode configurar certos aspectos da aparência e funcionamento do Depurador de Experience Platform.
+Você pode configurar certos aspectos de como o Experience Platform Debugger é exibido e funciona.
 
 ![](assets/settings.jpg)
 
 ## Modo claro ou escuro
 
-After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
+Depois que o Experience Platform Debugger for aberto, você poderá selecionar sua aparência preferida, ao acessar **[!UICONTROL Settings]** e selecionar **Modo escuro** (padrão) ou **Modo claro**.
 
 ## Redefinir
 
 Clique em **[!UICONTROL Reset all Data and Settings]** para apagar todos os dados e retornar às configurações padrão.
 
-## Bloquear o Depurador de Experience Platform em uma página
+## Bloquear o Experience Platform Debugger em uma página
 
-À medida que você altera páginas em seu site, a janela do Experience Platform Debugger é atualizada para mostrar informações para essa página. O nome da página à qual você está conectado aparece na parte inferior da tela. To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
+À medida que você altera páginas em seu site, a janela do Experience Platform Debugger é atualizada para mostrar informações dessa página. O nome da página à qual você está conectado aparece na parte inferior da tela. Para manter o Experience Platform Debugger bloqueado em uma página, clique em **[!UICONTROL Lock]** no canto inferior direito da janela Experience Platform Debugger.
 
 ![](assets/lock.jpg)
 
