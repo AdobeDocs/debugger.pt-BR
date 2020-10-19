@@ -5,11 +5,11 @@ seo-description: Tela de resumo do Experience Platform Debugger
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '949'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Para executar o Adobe Experience Platform Debugger, clique no ícone na barra do navegador e abra a página que deseja examinar no navegador.
 
@@ -30,7 +30,7 @@ A tela Resumo do Adobe Experience Platform Debugger é exibida.
 
 Essa tela também mostra informações sobre cada solução da Adobe Experience Cloud. As informações mostradas variam de acordo com a solução, mas geralmente incluem informações como biblioteca e versão da solução (por exemplo, &quot;AppMeasurement v2.9&quot;) e identificadores de conta (como a ID do conjunto de relatórios do Analytics, o código de cliente do Target, a ID de parceiro do Audience Manager, etc).
 
-## Informações mostradas no Depurador de Experience Platform
+## Informações mostradas no Experience Platform Debugger
 
 O Experience Platform Debugger mostra as seguintes informações para cada solução:
 
@@ -94,11 +94,11 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>A data de build da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external">biblioteca</a> do Launch. </p> </td> 
+   <td colname="col2"> <p>A data de build da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external"> biblioteca</a> do Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Launch. </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external"> ambiente</a> usado pela biblioteca do Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensões </p> </td> 
@@ -159,11 +159,11 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Código do cliente </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">Código de cliente</a> do Target. </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> Código de cliente</a> do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>Sua versão atual do <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external">at.js</a> ou mbox.js. </p> </td> 
+   <td colname="col2"> <p>Sua versão atual do <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> ou mbox.js. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da solicitação global </p> </td> 
@@ -175,31 +175,31 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da solicitação </p> </td> 
-   <td colname="col2"> <p>O nome de uma solicitação ao redor de um <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> local</a> na página. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome de uma solicitação ao redor de um <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> local</a> na página. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da atividade </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/activities/activities.html" format="html" scope="external">campanha ou atividade</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/activities/activities.html" format="html" scope="external"> campanha ou atividade</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da atividade </p> </td> 
-   <td colname="col2"> <p>A ID da atividade do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>A ID da atividade do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da experiência </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/experiences.html" format="html" scope="external">experiência</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/experiences.html" format="html" scope="external"> experiência</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da experiência </p> </td> 
-   <td colname="col2"> <p>A ID da experiência do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>A ID da experiência do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Oferta    Nome</p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external">oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col1"> <p>Oferta     Nome</p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da oferta </p> </td> 
-   <td colname="col2"> <p>A ID da oferta do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>A ID da oferta do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>
