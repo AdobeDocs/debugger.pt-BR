@@ -3,11 +3,11 @@ description: About Experience Platform Auditor
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: About Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 90%
 
 >[!IMPORTANT]
 >
->O Adobe Experience Platform Debugger está atualmente em beta. A documentação e a funcionalidade estão sujeitas a alterações.
+>O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
 Você pode usar o [Auditor](https://docs.adobe.com/content/help/pt-BR/auditor/using/overview.html) da Adobe Experience Platform para executar uma série de auditorias em sua página a partir da tela Auditor.
 
