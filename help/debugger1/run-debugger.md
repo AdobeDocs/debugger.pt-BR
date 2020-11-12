@@ -5,22 +5,22 @@ seo-description: Execução do Experience Cloud Debugger
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '1035'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1047'
+ht-degree: 89%
 
 ---
 
 
 # Tela Resumo {#summary-screen}
 
-Para executar o Experience Cloud Debugger, clique no ícone de extensão na barra de extensão e abra a página que deseja examinar no Chrome.
+Para executar o Adobe Experience Cloud Debugger, clique no ícone de extensão na barra de extensão e abra a página que deseja examinar no Chrome.
 
 ![](assets/start-icon.jpg)
 
-A tela Resumo do Adobe Experience Cloud Debugger é exibida.
+A tela Resumo do Experience Cloud Debugger é exibida.
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ Por exemplo, a imagem a seguir mostra informações sobre o Adobe Target. Observ
 
 ![](assets/summary-target2.jpg)
 
-## Executar uma auditoria no Auditor {#section-82bc57440406461ebf27a16855b71655}
+## Executar uma auditoria no Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Você pode usar o Adobe Auditor para executar uma série de auditorias na página. Para executar o Auditor, clique em **[!UICONTROL Auditor]** no menu superior e, em seguida, em **[!UICONTROL Audit Page Now]**. Para abrir o Adobe Auditor, clique em **[!UICONTROL Run Multi-Page Audit Now]**.
+Você pode usar o Plaform Auditor para executar uma série de auditorias em sua página. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Informações mostradas no Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-O Debugger mostra as seguintes informações para cada solução:
+O Experience Cloud Debugger mostra as seguintes informações para cada solução:
 
 **Informações da página**
 
@@ -105,13 +105,13 @@ O Debugger mostra as seguintes informações para cada solução:
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propriedade</a> do Adobe Launch. </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
@@ -119,15 +119,15 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>A data de build da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external">biblioteca</a> do Launch. </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Launch. </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Diretório de script </p> </td> 
-   <td colname="col2"> <p>O diretório onde o script do Launch está armazenado. </p> </td> 
+   <td colname="col2"> <p>O diretório em que o script de lançamento de plataforma é armazenado </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>A data de build da <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> do Launch. </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
@@ -180,7 +180,7 @@ O Debugger mostra as seguintes informações para cada solução:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Código do cliente </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">Código de cliente</a> do Target. </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external"> Código de cliente</a> do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
@@ -196,7 +196,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da atividade </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/activities/activities.html" format="html" scope="external">campanha ou atividade</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/activities/activities.html" format="html" scope="external"> campanha ou atividade</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da atividade </p> </td> 
@@ -204,7 +204,7 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da fórmula </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/experiences.html" format="html" scope="external">experiência</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/experiences.html" format="html" scope="external"> experiência</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID de receita </p> </td> 
@@ -212,11 +212,11 @@ O Debugger mostra as seguintes informações para cada solução:
   </tr> 
   <tr> 
    <td colname="col1"> <p>Oferta </p> </td> 
-   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external">oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da oferta </p> </td> 
-   <td colname="col2"> <p>A ID da oferta do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external">tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
+   <td colname="col2"> <p>A ID da oferta do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
  </tbody> 
 </table>
