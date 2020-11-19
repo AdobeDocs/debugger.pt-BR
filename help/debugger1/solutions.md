@@ -5,11 +5,11 @@ seo-description: Uso das guias Solução no Adobe Debugger
 seo-title: Guias Solução no Adobe Debugger
 title: Guias Solução
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1063'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Clique na ID do conjunto de relatórios para expandir a exibição:
 
 ![](assets/analytics-hits-expand.jpg)
 
-Essa tela exibe todas as solicitações desde que o Adobe Experience Pllatform Debugger foi aberto ou as solicitações foram apagadas. Os parâmetros padrão são mapeados automaticamente para nomes familiares. As variáveis [prop e eVar](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/evar.html) podem ser mapeadas até os nomes familiares personalizados (por exemplo, &quot;prop1&quot; pode ser exibido como &quot;Tipo de usuário&quot;), se você autenticar usando o recurso &quot;Análise de link&quot; (veja abaixo). As solicitações são exibidas em sequência, da esquerda para a direita.
+Esta tela exibe todas as solicitações desde que o Adobe Experience Pllatform Debugger foi aberto ou que as solicitações foram apagadas. Os parâmetros padrão são mapeados automaticamente para nomes familiares. As variáveis [prop e eVar](https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/evar.html) podem ser mapeadas até os nomes familiares personalizados (por exemplo, &quot;prop1&quot; pode ser exibido como &quot;Tipo de usuário&quot;), se você autenticar usando o recurso &quot;Link Analytics&quot; (veja abaixo). As solicitações são exibidas em sequência, da esquerda para a direita.
 
 **Download:** salve todas as solicitações feitas no conjunto de relatórios como planilha do Excel.
 
@@ -44,7 +44,7 @@ Essa tela exibe todas as solicitações desde que o Adobe Experience Pllatform D
 
 **Contas vinculadas (herdadas)**
 
-Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
+Clique em **[!UICONTROL Link Account]** e insira as informações solicitadas para vincular uma conta do Platform Debugger.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Click **[!UICONTROL Link Account]**, then enter the requested information to lin
 
 Ative a opção Recuperar hits pós-processadas se desejar visualizar os valores nos hits do Analytics, após a execução das regras de processamento. Você deve estar conectado à Adobe Experience Cloud para que esse recurso funcione.
 
-Quando essa opção está ativada, um parâmetro de depuração é adicionado às solicitações do Analytics. Os hits continuam sendo processados como qualquer outro hit. O Platform Debugger pesquisa a API de depuração do Analytics para recuperar valores de regras de pós-processamento para quaisquer ocorrências que tenham uma ID de ocorrência original. Os hits pós-processados têm um fundo violeta e são exibidos ao lado do hit original.
+Quando essa opção está ativada, um parâmetro de depuração é adicionado às solicitações do Analytics. Os hits continuam sendo processados como qualquer outro hit. O Platform Debugger pesquisa a API de depuração do Analytics para recuperar valores de regras pós-processamento para os hits com uma ID de hit original. Os hits pós-processados têm um fundo violeta e são exibidos ao lado do hit original.
 
 Para a maioria das implementações do Analytics, as informações de regras pós-processamento estão disponíveis em alguns minutos. A implementação do Analytics para Target (A4T) leva consideravelmente mais tempo.
 
@@ -88,11 +88,11 @@ Você também pode usar o filtro Target para [ativar o MBox Trace for Target par
 
 O vídeo a seguir mostra a funcionalidade geral do Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
 
 O vídeo a seguir mostra o Mbox Trace:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=por_br)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
