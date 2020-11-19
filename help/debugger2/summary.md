@@ -5,11 +5,11 @@ seo-description: Tela de resumo do Experience Platform Debugger
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '957'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -48,11 +48,11 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão do visitante </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Nome da página </p> </td> 
-   <td colname="col2"> <p>A variável <a href="https://docs.adobe.com/content/help/pt-BR/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
+   <td colname="col2"> <p>A variável <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/sc/implement/pageName.html" format="html" scope="external">pageName</a> enviada ao Analytics que contém um nome familiar do site. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Módulos </p> </td> 
@@ -67,15 +67,15 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Parceiro </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external">nome do parceiro</a> para a instância DIL. </p> </td> 
+   <td colname="col2"> <p>O <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/aam/r_dil_get_partner.html" format="html" scope="external">nome do parceiro</a> para a instância DIL. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external">número da versão</a> da instância DIL. </p> </td> 
+   <td colname="col2"> <p>O <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/aam/r_api_return_versions_dil.html" format="html" scope="external">número da versão</a> da instância DIL. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>A <a href="https://docs.adobe.com/content/help/pt-BR/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">ID de usuário exclusiva</a> associada à instância DIL. </p> </td> 
+   <td colname="col2"> <p>A <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/aam/ids-in-aam.html" format="html" scope="external">ID de usuário exclusiva</a> associada à instância DIL. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -86,7 +86,7 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propriedade</a> do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
@@ -94,11 +94,11 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>A data da build da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external">biblioteca</a> do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Extensões </p> </td> 
@@ -107,13 +107,13 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
  </tbody> 
 </table>
 
-**Adobe Experience Platform Web SDK**
+**SDK da Web da Adobe Experience Platform**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Versão da biblioteca </p> </td> 
-   <td colname="col2"> <p>O número da versão da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">biblioteca do Adobe Experience Platform Web SDK</a> </p> </td> 
+   <td colname="col2"> <p>O número da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">versão da biblioteca</a> do SDK da Web da Adobe Experience Platform. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Namespace</p> </td> 
@@ -121,7 +121,7 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>ID da propriedade </p> </td> 
-   <td colname="col2"> <p>O nome da propriedade Plataforma de lançamento especificada na extensão </p> </td> 
+   <td colname="col2"> <p>O nome da propriedade do Platform Launch especificado na extensão. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Domínio de borda </p> </td> 
@@ -148,7 +148,7 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
-   <td colname="col2"> <p>A versão da biblioteca de <a href="https://docs.adobe.com/content/help/pt-BR/analytics/components/metrics/unique-visitors.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
+   <td colname="col2"> <p>A versão da biblioteca de <a href="https://experiencecloud.adobe.com/resources/help/pt_BR/sc/implement/visid_analytics.html" format="html" scope="external">ID de visitante</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ O Experience Platform Debugger mostra as seguintes informações para cada solu�
    <td colname="col2"> <p>A ID da experiência do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Oferta     Nome</p> </td> 
+   <td colname="col1"> <p>Oferta Nome</p> </td> 
    <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/target/using/experiences/offers/manage-content.html" format="html" scope="external"> oferta</a> do Target. Disponível sem autenticação somente se você implementar o ouvinte de eventos de Depuração no código ou gerenciador de tags e ativar os <a href="https://docs.adobe.com/content/help/pt-BR/target/using/administer/response-tokens.html" format="html" scope="external"> tokens de resposta</a> necessários na interface do usuário do Target. </p> </td> 
   </tr> 
   <tr> 
