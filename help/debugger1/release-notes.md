@@ -5,11 +5,11 @@ seo-description: Notas de versão do Experience Cloud Debugger
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '723'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -51,11 +51,11 @@ ht-degree: 85%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Testes do Adobe Experience Platform Auditor </p> </td> 
-   <td colname="col2"> <p> Adicionados <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> testes</a> do Platform Auditor ao Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p> Adição de <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">testes do Platform Auditor</a> para o Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Experience Cloud Debugger agora exibe AAM respostas </p> </td> 
+   <td colname="col2"> <p>O Experience Cloud Debugger agora exibe respostas do AAM </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 85%
 
 * Correção de um problema em que o rodapé ocultava o conteúdo na parte inferior da página.
 
-* O rodapé Experience Cloud Debugger foi atualizado
+* O rodapé do Experience Cloud Debugger foi atualizado.
 * Correção de um problema em que a terminologia desatualizada era usada para o Target.
 
 ## Versão 0.0.809 de 28 de fevereiro de 2019 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 85%
 
 * Correção de um problema em Inserir dinamicamente o Launch, no qual a interface do usuário parecia mapear para um código de incorporação diferente quando não estava.
 * Correção de um problema em Inserir dinamicamente o Launch, no qual um URL inválido continuava a ser exibido.
-* Correção de um problema em que o Experience Cloud Debugger continuou a substituir códigos incorporados mesmo quando a janela Experience Cloud Debugger era fechada
+* Correção de um problema em que o Experience Cloud Debugger continuava substituindo códigos de incorporação mesmo quando a janela do Experience Cloud Debugger estava fechada.
 
 ## Versão 0.0.806 de 10 de setembro de 2018 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 85%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Inserir dinamicamente o Launch </p> </td> 
-   <td colname="col2"> <p>Na guia Ferramentas, é possível inserir dinamicamente o Adobe Experience Platform Launch em qualquer página para testar algo em uma página que não tenha o Platform Launch instalado. </p> </td> 
+   <td colname="col2"> <p>Na guia Ferramentas, é possível inserir dinamicamente o Adobe Experience Platform Launch em qualquer página, para testar algo em uma página que não tenha o Platform Launch instalado. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Aprimoramentos do Target </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 85%
 * Correção de um problema em que a guia Experience Cloud não era atualizada.
 
 * Correção de um problema em que &quot;Media Optimizer&quot; era exibido na linha Solução da guia Rede, em vez do nome atual &quot;Advertising Cloud&quot;.
-* Corrigido um problema que fazia com que o Experience Cloud Debugger injetasse _satellite em cada página
+* Correção de um problema que fazia com que o Experience Cloud Debugger injetasse _satellite em cada página.
 
 ## Versão 0.0.803 de 10 de agosto de 2018 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -159,7 +159,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Link do Platform Auditor na guia Ferramentas </p> </td> 
-   <td colname="col2"> <p>Foi adicionado um link para o Platform Auditor a partir do Experience Cloud Debugger </p> </td> 
+   <td colname="col2"> <p>Adição de um link para o Platform Auditor no Experience Cloud Debugger. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Guias recolhidas </p> </td> 
@@ -245,7 +245,7 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox   interruptores </p> </td> 
+   <td colname="col1"> <p>Mbox interruptores </p> </td> 
    <td colname="col2"> <p>Os interruptores da mbox foram adicionadas à guia Target. </p> </td> 
   </tr> 
   <tr> 
