@@ -5,11 +5,11 @@ seo-description: Execução do Experience Cloud Debugger
 seo-title: Tela Resumo
 title: Tela Resumo
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -34,9 +34,9 @@ Por exemplo, a imagem a seguir mostra informações sobre o Adobe Target. Observ
 
 ## Executar uma auditoria no Adobe Experience Platform Auditor {#section-82bc57440406461ebf27a16855b71655}
 
-Você pode usar o Plaform Auditor para executar uma série de auditorias em sua página. To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Você pode usar o Platform Auditor para executar uma série de auditorias na página. Para executar o Platform Auditor, clique em **[!UICONTROL Auditor]** no menu superior e, em seguida, em **[!UICONTROL Audit Page Now]**. Para abrir o Platform Auditor, clique em **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Informações mostradas no Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
 O Experience Cloud Debugger mostra as seguintes informações para cada solução:
 
@@ -111,7 +111,7 @@ O Experience Cloud Debugger mostra as seguintes informações para cada soluçã
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Nome </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>O nome da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">propriedade</a> do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Versão </p> </td> 
@@ -119,15 +119,15 @@ O Experience Cloud Debugger mostra as seguintes informações para cada soluçã
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>A data da build da <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/libraries.html" format="https" scope="external">biblioteca</a> do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>O <a href="https://docs.adobe.com/content/help/pt-BR/launch/using/reference/publish/environments.html" format="https" scope="external">ambiente</a> usado pela biblioteca do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Diretório de script </p> </td> 
-   <td colname="col2"> <p>O diretório em que o script de lançamento de plataforma é armazenado </p> </td> 
+   <td colname="col2"> <p>O diretório onde o script do Platform Launch está armazenado. </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ O Experience Cloud Debugger mostra as seguintes informações para cada soluçã
   </tr> 
   <tr> 
    <td colname="col1"> <p>Data de build </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>A data da build da <a href="https://docs.adobe.com/content/help/pt-BR/dtm/using/library-management.html" format="html" scope="external">biblioteca</a> do Platform Launch. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Ambiente </p> </td> 
@@ -187,7 +187,7 @@ O Experience Cloud Debugger mostra as seguintes informações para cada soluçã
    <td colname="col2"> <p>Sua versão atual do <a href="https://docs.adobe.com/content/help/pt-BR/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external">at.js</a> ou mbox.js </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Nome da mBox global </p> </td> 
+   <td colname="col1"> <p>Nome da mbox global </p> </td> 
    <td colname="col2"> <p>A <a href="https://docs.adobe.com/help/pt-BR/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">mbox global</a> se refere à única chamada de servidor feita na parte superior de cada página da Web na implementação do Target </p> </td> 
   </tr> 
   <tr> 
