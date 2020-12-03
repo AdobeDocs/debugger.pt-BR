@@ -5,9 +5,9 @@ seo-description: Documentação técnica da extensão do Chrome do Adobe Experie
 seo-title: Extensão do Chrome do Adobe Experience Cloud Debugger
 title: Extensão do Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
 
