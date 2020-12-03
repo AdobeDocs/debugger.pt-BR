@@ -5,9 +5,9 @@ seo-description: Notas de versão do Experience Cloud Debugger
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '723'
 ht-degree: 100%
 
