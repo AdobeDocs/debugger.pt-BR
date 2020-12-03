@@ -5,9 +5,9 @@ seo-description: Uso das guias Solução no Adobe Debugger
 seo-title: Guias Solução no Adobe Debugger
 title: Guias Solução
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ Você também pode usar o filtro Target para [ativar o MBox Trace for Target par
 
 O vídeo a seguir mostra a funcionalidade geral do Target:
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 O vídeo a seguir mostra o Mbox Trace:
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
