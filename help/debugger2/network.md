@@ -1,26 +1,25 @@
 ---
 description: Tela de rede do Experience Platform Debugger
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: depurador, extensão do Experience Platform Debugger, chrome, extensão, rede, informações
 seo-description: Tela de rede do Experience Platform Debugger
 seo-title: Informações de rede
 title: Informações de rede
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '241'
+ht-degree: 87%
 
 ---
 
-
-# Rede {#network}
+# Rede{#network}
 
 >[!IMPORTANT]
 >
 >O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
 
-Para exibir Informações de, clique em **[!UICONTROL Network]**.
+Para exibir Informações de rede, clique em **[!UICONTROL Rede]**.
 
 A tela Rede agrega todas as chamadas da solução da Adobe Experience Cloud feitas na página e exibe da esquerda para a direita. Os parâmetros padrão são identificados automaticamente com nomes familiares e organizados para agrupar parâmetros comuns na mesma função.
 
@@ -36,7 +35,7 @@ Para alterar as informações por solução, selecione a solução que deseja ex
 
 ![](assets/network-analytics.jpg)
 
-Para voltar a exibir todas as soluções, clique em **[!UICONTROL Network]**.
+Para voltar a exibir todas as soluções, clique em **[!UICONTROL .Rede]**
 
 Clique em um item na exibição Rede para obter uma exibição ampliada. Na janela de exibição expandida, é possível copiar as informações mostradas para a Área de transferência.
 
@@ -46,6 +45,6 @@ Clique em um item na exibição Rede para obter uma exibição ampliada. Na jane
 
 ![](assets/copy.jpg)-->
 
-Para limpar a lista, clique em **[!UICONTROL Remove Events]**.
+Para limpar a lista, clique em **[!UICONTROL Remover Eventos]**.
 
 Para baixar um arquivo do Excel que contém as informações nesta tela, clique em **[!UICONTROL Download]**.
