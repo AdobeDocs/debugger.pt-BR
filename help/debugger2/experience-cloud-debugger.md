@@ -9,7 +9,7 @@ exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ O [Adobe Experience Platform Debugger para Chrome](https://chrome.google.com/web
 
 Use o Platform Debugger com outras soluções de ativação da Adobe para obter um fluxo de trabalho como o seguinte:
 
-1. Use o [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html) ou o [DTM](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html) para incorporar o código que ativa as soluções da [Adobe Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/experience-cloud.html) nas páginas.
+1. Use o [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR) ou o [DTM](https://docs.adobe.com/content/help/pt-BR/dtm/using/dtm-home.html) para incorporar o código que ativa as soluções da [Adobe Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/experience-cloud.html) nas páginas.
 
 1. Use o [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/pt-BR/auditor/using/overview.html) para testar as implementações.
 1. Use o Adobe Experience Platform Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
