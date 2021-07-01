@@ -5,16 +5,15 @@ seo-description: Notas de versão do Experience Cloud Debugger
 seo-title: Notas de versão
 title: Notas de versão
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-
-# Notas de versão {#release-notes}
+# Notas de versão{#release-notes}
 
 ## Notas de versão {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
@@ -262,4 +261,3 @@ A versão 0.0.803 não inclui alterações voltadas para o cliente.
   </tr> 
  </tbody> 
 </table>
-
