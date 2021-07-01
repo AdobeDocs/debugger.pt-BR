@@ -1,16 +1,15 @@
 ---
 description: About Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
-seo-description: About Experience Platform Auditor
+keywords: depurador, extensão do experience platform debugger, chrome, extensão, auditor, dtm, target
+seo-description: Sobre o Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 78%
 
 ---
-
 
 # Auditor {#auditor}
 
@@ -21,7 +20,7 @@ ht-degree: 100%
 Você pode usar o [Auditor](https://docs.adobe.com/content/help/pt-BR/auditor/using/overview.html) da Adobe Experience Platform para executar uma série de auditorias em sua página a partir da tela Auditor.
 
 1. Clique em **[!UICONTROL Auditor]** na navegação à esquerda.
-1. Clique em **[!UICONTROL Run Auditor Tests]**.
+1. Clique em **[!UICONTROL Executar Testes do Auditor]**.
 
 Os resultados dos testes são exibidos.
 
