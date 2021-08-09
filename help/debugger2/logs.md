@@ -8,8 +8,8 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 71%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -25,19 +25,19 @@ A tela Logs fornece informações específicas para implementações de DTM, Ado
 
 A tela Registros mostra informações em quatro colunas:
 
-**[!UICONTROL Soluções]:** exibe ícones da solução Experience Cloud afetados pelo item registrado. Passe o cursos sobre o ícone para obter uma descrição do texto.
+**[!UICONTROL Solutions]:** exibe ícones da solução Experience Cloud afetados pelo item registrado. Passe o cursos sobre o ícone para obter uma descrição do texto.
 
-**[!UICONTROL Ocorreu em]:** mostra quando o problema registrado ocorreu durante a sessão.
+**[!UICONTROL Occurred at]:** mostra quando o problema registrado ocorreu durante a sessão.
 
-**[!UICONTROL Nível de log]:** mostra a gravidade do problema. A gravidade é um dos seguintes níveis:
+**[!UICONTROL Log level]:** mostra a gravidade do problema. A gravidade é um dos seguintes níveis:
 
 * Log
 * Info
 * Avisos
 * Erros
 
-**[!UICONTROL Mensagem de log]:** descreve o problema.
+**[!UICONTROL Log message]:** descreve o problema.
 
-Algumas mensagens de registro incluem uma opção Mostrar código. Clique em **[!UICONTROL Mostrar código]** para exibir o código condicional que determina se uma regra deve ser acionada.
+Algumas mensagens de registro incluem uma opção Mostrar código. Clique em **[!UICONTROL Show Code]** para exibir o código condicional que determina se uma regra deve ser acionada.
 
-Para limpar o log, clique em **[!UICONTROL Remover logs]**.
+Para limpar o registro, clique em **[!UICONTROL Remove Logs]**.
