@@ -7,8 +7,8 @@ title: Configurar o Experience Platform Debugger
 exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 62%
+source-wordcount: '178'
+ht-degree: 95%
 
 ---
 
@@ -24,15 +24,15 @@ Você pode configurar certos aspectos de como o Experience Platform Debugger é 
 
 ## Modo claro ou escuro
 
-Depois que o Platform Debugger for aberto, você poderá selecionar sua aparência preferida, acessando **[!UICONTROL Configurações]** e selecionando **Modo escuro** (padrão) ou **Modo claro**.
+Depois que o Platform Debugger for aberto, você poderá selecionar sua aparência preferida, ao acessar **[!UICONTROL Settings]** e selecionar **Modo escuro** (padrão) ou **Modo claro**.
 
 ## Redefinir
 
-Clique em **[!UICONTROL Redefinir todos os dados e configurações]** para retornar para limpar todos os dados e retornar às configurações padrão.
+Clique em **[!UICONTROL Reset all Data and Settings]** para apagar todos os dados e retornar às configurações padrão.
 
 ## Bloquear o Experience Platform Debugger em uma página
 
-À medida que você altera páginas em seu site, a janela do Experience Platform Debugger é atualizada para mostrar informações dessa página. O nome da página à qual você está conectado aparece na parte inferior da tela. Para manter o Experience Platform Debugger bloqueado em uma página, clique em **[!UICONTROL Lock]** no canto inferior direito da janela Platform Debugger.
+À medida que você altera páginas em seu site, a janela do Experience Platform Debugger é atualizada para mostrar informações dessa página. O nome da página à qual você está conectado aparece na parte inferior da tela. Para manter o Platform Debugger bloqueado em uma página, clique em **[!UICONTROL Lock]** no canto inferior direito da janela Experience Platform Debugger.
 
 ![](assets/lock.jpg)
 
