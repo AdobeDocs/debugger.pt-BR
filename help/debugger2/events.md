@@ -7,8 +7,8 @@ title: Eventos
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 87%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ Para ativar na linha do tempo o rastreamento de alterações na camada de dados:
 
    ![](assets/event-datalayer.jpg)
 
-1. Clique em **[!UICONTROL Salvar]**.
+1. Clique em **[!UICONTROL Save]**.
 
 Os detalhes de alterações da camada de dados mostram qualquer coisa que foi excluída ou adicionada. Você pode clicar em **{}** para enxergar mais fundo na camada de dados.
 
 ## Baixar informações do evento
 
-Clique em **[!UICONTROL Download]** para baixar um arquivo Excel que mostra informações sobre suas chamadas de página.
+Clique em **[!UICONTROL Download]** para baixar um arquivo de Excel que mostra informações sobre suas chamadas de página.
