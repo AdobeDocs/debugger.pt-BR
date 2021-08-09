@@ -8,14 +8,14 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
 
 # Informações de rede{#network-information}
 
-Para exibir Informações de rede, clique em **[!UICONTROL Rede]**.
+Para exibir Informações de, clique em **[!UICONTROL Network]**.
 
 A tela Rede agrega todas as chamadas da solução da Adobe Experience Cloud feitas na página e exibe da esquerda para a direita. Os parâmetros padrão são identificados automaticamente com nomes familiares e organizados para agrupar parâmetros comuns na mesma função.
 
@@ -27,7 +27,7 @@ A tela Rede agrega todas as chamadas da solução da Adobe Experience Cloud feit
 >
 >No momento, nem todos os parâmetros transmitidos nas chamadas da solução (por exemplo, variáveis de contexto do Analytics, parâmetros personalizados do Target ou IDs do cliente do serviço da Experience Cloud ID) estão visíveis na tela Rede.
 
-Para exibir todas as informações, selecione **[!UICONTROL Todos]**.
+Para exibir todas as informações, selecione **[!UICONTROL All]**.
 
 Você também pode filtrar as informações por solução. Selecione as soluções que deseja exibir. É possível exibir várias soluções ao mesmo tempo. Os filtros de solução selecionados são realçados.
 
