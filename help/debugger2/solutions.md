@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 83%
+source-wordcount: '302'
+ht-degree: 92%
 
 ---
 
@@ -23,7 +23,7 @@ Clique em uma solução para ver os resultados para soluções específicas da A
 
 ## SDK da Web da Adobe Experience Platform {#aep}
 
-A tela do SDK da Web da Adobe Experience Platform mostra informações sobre o SDK da Web da Adobe Experience Platform. Clique em **[!UICONTROL Configurar]** para ativar ou desativar o registro de log do console.
+A tela do SDK da Web da Adobe Experience Platform mostra informações sobre o SDK da Web da Adobe Experience Platform. Clique em **[!UICONTROL Configure]** para ativar ou desativar o registro de log do console.
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -41,11 +41,11 @@ Use a guia [Audience Manager](https://docs.adobe.com/content/help/pt-BR/audience
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Use a seção Adobe Experience Platform Launch para visualizar solicitações do Platform Launch. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [embed codes](https://docs.adobe.com/content/help/pt-BR/launch/using/reference/upgrade/link-dtm-embed-code.html). Você pode editar, substituir ou adicionar mais códigos incorporados no Experience Platform Debugger. Se você fizer logon, será possível selecionar uma propriedade alternativa usando os menus suspensos.
+Use a seção Adobe Experience Platform Launch para visualizar solicitações do Platform Launch. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [códigos incorporados](https://docs.adobe.com/content/help/pt-BR/launch/using/reference/upgrade/link-dtm-embed-code.html). Você pode editar, substituir ou adicionar mais códigos incorporados no Experience Platform Debugger. Se você fizer logon, será possível selecionar uma propriedade alternativa usando os menus suspensos.
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-Use a seção Dynamic Tag Management para exibir solicitações do DTM. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [embed codes](https://docs.adobe.com/content/help/pt-BR/dtm/using/client-side/code.html).
+Use a seção Dynamic Tag Management para exibir solicitações do DTM. Você também pode clicar em **[!UICONTROL Configuration]** para configurar [códigos incorporados](https://docs.adobe.com/content/help/pt-BR/dtm/using/client-side/code.html).
 
 ## Serviço da Experience Cloud ID {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
