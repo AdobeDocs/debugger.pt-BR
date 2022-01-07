@@ -1,15 +1,15 @@
 ---
-description: O Debugger examina as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud
+description: O depurador examina as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud
 keywords: depurador, extensão do experience cloud debugger, chrome, extensão
 seo-description: Technical documentation for the Adobe Experience Cloud Debugger Chrome Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
 seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Extensão do Adobe Experience Cloud Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -24,8 +24,7 @@ A [extensão do Adobe Experience Cloud Debugger para Chrome](https://chrome.goog
 Use a extensão do Adobe Experience Cloud Debugger com outras soluções de ativação da Adobe para obter um fluxo de trabalho como o seguinte:
 
 1. Use [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR) para inserir o código que ativa [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) nas suas páginas.
-
-1. Use o [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/pt-BR/auditor/using/overview.html) para testar as implementações.
+1. Use o Adobe Experience Platform Auditor para testar as implementações.
 1. Use a extensão do Adobe Experience Cloud Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
 
 As etapas acima não são necessariamente executadas nessa ordem, mas é um processo comum.
