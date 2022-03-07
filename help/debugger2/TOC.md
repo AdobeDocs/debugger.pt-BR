@@ -8,23 +8,28 @@ user-guide-title: Ajuda do Experience Platform Debugger
 user-guide-description: Examine suas páginas da Web para verificar se há problemas nas implementações da Experience Platform.
 breadcrumb-title: Guia do Platform Debugger
 index: true
-source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
+source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 
 
 # Ajuda do Experience Platform Debugger {#using-v2}
 
-+ [Extensão do Adobe Experience Platform Debugger](experience-cloud-debugger.md)
-+ [Notas de versão](release-notes.md)
-+ [Instalar o Experience Platform Debugger](install-debugger.md)
-+ [Configurar o Experience Platform Debugger](configure-debugger.md)
-+ [Tela Resumo](summary.md)
-+ [Soluções](solutions.md)
-+ [Logs](logs.md)
-+ [Rede](network.md)
-+ [Eventos](events.md)
-+ [Auditor](auditor.md)
+* [Extensão do Adobe Experience Platform Debugger](experience-cloud-debugger.md)
+* [Notas de versão](release-notes.md)
+* [Instalar o Experience Platform Debugger](install-debugger.md)
+* [Configurar o Experience Platform Debugger](configure-debugger.md)
+* [Tela Resumo](summary.md)
+* [Soluções](solutions.md)
+* [Logs](logs.md)
+* [Rede](network.md)
+* [Eventos](events.md)
+* Auditor {#auditor}
+   * [Visão geral](./auditor/overview.md)
+   * [Testes de consistência de tags](./auditor/tag-consistency.md)
+   * [Testes de presença de tag](./auditor/tag-presence.md)
+   * [Testes de configuração](./auditor/configuration.md)
+   * [Testes de alerta](./auditor/alerts.md)
