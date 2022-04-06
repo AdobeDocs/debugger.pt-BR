@@ -1,20 +1,16 @@
 ---
-title: Auditor
-description: Saiba como usar a guia Auditor no Adobe Experience Platform Debugger para testar as implementações da Adobe Experience Cloud.
-keywords: depurador, extensão do experience platform debugger, chrome, extensão, auditor, dtm, target
+title: Guia Auditor
+description: Learn how to use the Auditor tab in Adobe Experience Platform Debugger to test your Adobe Experience Cloud implementations.
+keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 43%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+# Guia Auditor
 
 No Adobe Experience Platform Debugger, é possível usar a variável **[!UICONTROL Auditor]** para executar uma série de testes de auditoria em sua página.
 
@@ -27,7 +23,7 @@ Para usar este recurso:
 
 A lista de resultados mostra o teste e seus resultados, e fornece sugestões para resolver qualquer problema.
 
-## Interpretação dos resultados dos testes
+## Interpreting test results
 
 Cada teste é ponderado e sua pontuação de teste é igual ao peso atribuído. Se você passar em um teste com um peso de 5, você receberá cinco pontos.
 
@@ -40,7 +36,7 @@ Cada teste é ponderado e sua pontuação de teste é igual ao peso atribuído. 
 | 4 | Falha significa que você pode estar coletando dados não confiáveis. |
 | 5 | Falha significa que você pode ver perda de dados. |
 
-Todos os testes foram bem-sucedidos ou falharam. Eles testam a conformidade ou não conformidade com as condições de teste, de modo que não há pontuações parciais para a conformidade parcial. Por exemplo, se o teste verificar a versão mais recente de uma solução da Adobe e você estiver somente atrasado em uma versão, você obterá a mesma pontuação se estiver com cinco versões de volta. As versões mais recentes incluem melhorias de desempenho e correções de erros, portanto, é recomendável que esteja na versão mais recente.
+Todos os testes foram bem-sucedidos ou falharam. Eles testam a conformidade ou não conformidade com as condições de teste, de modo que não há pontuações parciais para a conformidade parcial. Por exemplo, se o teste verificar a versão mais recente de uma solução da Adobe e você estiver somente atrasado em uma versão, você obterá a mesma pontuação se estiver com cinco versões de volta. The most recent versions include performance improvements and bug fixes, so it is recommended to be on the most recent version.
 
 É **altamente recomendável** que você corrija quaisquer resultados de nível 4 ou 5.
 

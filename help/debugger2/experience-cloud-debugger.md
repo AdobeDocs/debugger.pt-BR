@@ -1,29 +1,25 @@
 ---
-description: O Experience Platform Debugger examina as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud
+description: O Experience Platform Debugger examina as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Experience Cloud.
 keywords: depurador, extensão do Experience Platform Debugger, chrome, extensão
 seo-description: Technical documentation for the Adobe Experience Platform Debugger Chrome and Firefox Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
 seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Extensão do Adobe Experience Platform Debugger
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
+source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 27%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
-
->[!IMPORTANT]
->
->O Adobe Experience Platform Debugger atualmente está na versão beta. A documentação e a funcionalidade estão sujeitas a alterações.
+# Visão geral do Adobe Experience Platform Debugger
 
 A extensão do Adobe Experience Platform Debugger para [Cromo](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) e [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/adobe-experience-platform-dbg/) O avalia as páginas da Web e ajuda a encontrar problemas na implementação das soluções da Adobe Experience Cloud.
 
 Você pode usar o Platform Debugger com outras soluções de ativação do Adobe para executar o seguinte:
 
-1. Use [tags](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=pt-BR) na interface do usuário da coleta de dados para inserir o código que é ativado [Adobe Experience Cloud](https://docs.adobe.com/content/help/pt-BR/core-services/interface/experience-cloud.html) produtos nas suas páginas.
+1. Use [tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR) na interface do usuário da coleta de dados para inserir o código que é ativado [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) produtos nas suas páginas.
 1. Use o [**[!UICONTROL Auditor]**guia](./auditor/overview.md) no Platform Debugger para testar as implementações.
 1. Use ferramentas baseadas em eventos e específicas da solução no Platform Debugger para depurar os problemas encontrados pelo Auditor ou para examinar outras informações sobre as implementações.
 

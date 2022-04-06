@@ -1,8 +1,8 @@
 ---
 title: Referência do teste de configuração
-description: Saiba como o recurso auditor testa a configuração no Adobe Experience Platform Debugger.
+description: Saiba como o recurso auditor testa configurações no Adobe Experience Platform Debugger.
 exl-id: 92b07224-57f1-4891-9923-aa079945e6bc
-source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
+source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 66%
