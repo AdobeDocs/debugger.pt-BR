@@ -69,7 +69,7 @@ Clique em **[!UICONTROL Requests]** e expanda o ambiente para exibir as informa�
 
 Clique em **[!UICONTROL Clear All Requests]** para remover as solicitações exibidas no momento. Mais solicitações serão exibidas à medida que forem feitas.
 
-Você também pode usar o filtro Target para [ativar o MBox Trace for Target para fins de depuração](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html).
+Você também pode usar o filtro Target para [ativar o MBox Trace for Target para fins de depuração](https://docs.adobe.com/content/help/pt-BR/target/using/activities/troubleshoot-activities/content-trouble.html).
 
 É necessário abrir uma guia Chrome autenticada na Experience Cloud para ativar o Mbox Trace. Depois de ativado, ele mostra o nome de usuário da Adobe ID. Expanda o nome de usuário para expor os códigos de cliente do Target associados às organizações da Experience Cloud às quais você tem acesso. Clique no código de cliente para o qual você deseja ativar o Mbox Trace e confirme se a marca de seleção verde é exibida. Todas as solicitações do Target com informações do Mbox Trace serão exibidas, agrupadas por código de cliente. Para explorar as informações do Mbox Trace, expanda a solicitação para ver as guias:
 
@@ -77,7 +77,7 @@ Você também pode usar o filtro Target para [ativar o MBox Trace for Target par
 
 * Solicitação
 
-   A guia de solicitação do [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) é semelhante à guia de solicitação principal. Você pode exibir todos os parâmetros transmitidos pela solicitação do Target, além dos cabeçalhos da solicitação.
+   A guia de solicitação do [Mbox Trace](https://docs.adobe.com/content/help/pt-BR/target/using/activities/troubleshoot-activities/content-trouble.html) é semelhante à guia de solicitação principal. Você pode exibir todos os parâmetros transmitidos pela solicitação do Target, além dos cabeçalhos da solicitação.
 * Perfil
 
    Expanda a seção Instantâneo do perfil para ver as [informações do perfil](https://docs.adobe.com/content/help/pt-BR/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html) armazenadas sobre você como um visitante no banco de dados do perfil do Target. Todos os perfis de in-mbox e script são expostos aqui, bem como alguns perfis do sistema. A coluna Status mostra quais perfis foram alterados dentro do escopo desta solicitação, bem como seus valores antes e depois que a solicitação entrou no sistema de perfil.

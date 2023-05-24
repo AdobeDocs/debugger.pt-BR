@@ -1,29 +1,29 @@
 ---
 title: Guia Auditor
-description: Learn how to use the Auditor tab in Adobe Experience Platform Debugger to test your Adobe Experience Cloud implementations.
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
+description: Saiba como usar a guia Auditor no Adobe Experience Platform Debugger para testar as implementações do Adobe Experience Cloud.
+keywords: depurador;extensão do experience platform debugger;chrome;extensão;auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '358'
+ht-degree: 41%
 
 ---
 
 # Guia Auditor
 
-No Adobe Experience Platform Debugger, é possível usar a variável **[!UICONTROL Auditor]** para executar uma série de testes de auditoria em sua página.
+No Adobe Experience Platform Debugger, você pode usar a variável **[!UICONTROL Auditor]** para executar uma série de testes de auditoria na página.
 
 Para usar este recurso:
 
 1. Selecionar **[!UICONTROL Auditor]** no painel de navegação esquerdo.
 1. Selecione **[!UICONTROL Run Auditor Tests]**. Quando os testes estiverem concluídos, seus resultados aparecerão abaixo.
 
-![Captura de tela dos resultados dos testes na guia Auditor](../assets/auditor-results.png)
+![Captura de tela dos resultados do teste na guia Auditor](../assets/auditor-results.png)
 
 A lista de resultados mostra o teste e seus resultados, e fornece sugestões para resolver qualquer problema.
 
-## Interpreting test results
+## Interpretação dos resultados dos testes
 
 Cada teste é ponderado e sua pontuação de teste é igual ao peso atribuído. Se você passar em um teste com um peso de 5, você receberá cinco pontos.
 
@@ -36,15 +36,15 @@ Cada teste é ponderado e sua pontuação de teste é igual ao peso atribuído. 
 | 4 | Falha significa que você pode estar coletando dados não confiáveis. |
 | 5 | Falha significa que você pode ver perda de dados. |
 
-Todos os testes foram bem-sucedidos ou falharam. Eles testam a conformidade ou não conformidade com as condições de teste, de modo que não há pontuações parciais para a conformidade parcial. Por exemplo, se o teste verificar a versão mais recente de uma solução da Adobe e você estiver somente atrasado em uma versão, você obterá a mesma pontuação se estiver com cinco versões de volta. The most recent versions include performance improvements and bug fixes, so it is recommended to be on the most recent version.
+Todos os testes foram bem-sucedidos ou não. Eles testam a conformidade ou não conformidade com as condições de teste, de modo que não há pontuações parciais para a conformidade parcial. Por exemplo, se o teste verificar a versão mais recente de uma solução da Adobe e você estiver somente atrasado em uma versão, você obterá a mesma pontuação se estiver com cinco versões de volta. As versões mais recentes incluem melhorias de desempenho e correções de erros, portanto, é recomendável que esteja na versão mais recente.
 
 É **altamente recomendável** que você corrija quaisquer resultados de nível 4 ou 5.
 
 É **recomendável** que você corrija quaisquer resultados de nível 1 a 3.
 
-## Tecnologias de Adobe compatíveis
+## Tecnologias de Adobe suportadas
 
-O recurso auditor pode classificar as seguintes tecnologias de Adobe:
+O recurso de auditor é capaz de classificar as seguintes tecnologias de Adobe:
 
 * Adobe Advertising Cloud DSP
 * Adobe Advertising Cloud Search

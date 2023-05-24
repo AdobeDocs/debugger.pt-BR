@@ -1,6 +1,6 @@
 ---
 description: Saiba como usar a guia Logs no Adobe Experience Platform Debugger.
-keywords: depurador, extensão do Experience Platform Debugger, chrome, extensão, logs
+keywords: depurador;extensão do Experience Platform Debugger;chrome;extensão;logs
 seo-description: Experience Platform Debugger Logs screen
 seo-title: Logs
 title: Guia Logs
@@ -15,7 +15,7 @@ ht-degree: 50%
 
 # Guia Logs
 
-O **Logs** A guia fornece informações específicas para tags e implementações do SDK da Web da Adobe Experience Platform. É possível filtrar pelas soluções implementadas por meio das ferramentas associadas.
+A variável **Logs** A guia fornece informações específicas para tags e implementações do Adobe Experience Platform Web SDK. É possível filtrar pelas soluções implementadas por meio das ferramentas associadas.
 
 ![](assets/logs.jpg)
 
